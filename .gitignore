@@ -1,4 +1,13 @@
-.vscode
+.vscode/
+.history
+launch.json
 db.sqlite3
 manage.py
-venv
+venv/
+
+static/
+
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
