@@ -2,7 +2,7 @@
 .history
 launch.json
 db.sqlite3
-manage.py
+
 venv/
 
 static/
